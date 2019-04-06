@@ -121,6 +121,9 @@ pages while they are logged in.
 If a user is authenticated, render this line of code, else, render that link...)
 - Decide what happens when a user successfully logs in or out.
 ```
+![Profile Page](https://user-images.githubusercontent.com/46763228/55665612-a0556380-57f7-11e9-8006-874d0d1c4daf.png)
+![Logged Out](https://user-images.githubusercontent.com/46763228/55665613-a0edfa00-57f7-11e9-9312-06affda835ba.png)
+![Login Form](https://user-images.githubusercontent.com/46763228/55665614-a0edfa00-57f7-11e9-89ac-9f1523112ec0.png)
 
 ## Summary
 Over the course of the two week sprint, I was presented with a number of challenges that I had never faced previous to this experience. While at times difficult, ultimately this sharpened my skills and helped me develop new ones. Additionally, I got to work in a real world simulation, collaborating with other developers, communicating needs and troubleshooting obstacles as a group. This is a major facet of engineering and I'm grateful for the opportunity. While I was sad to leave the project before completion, I was proud to pass along what I accomplished to the next group and hope it serves them well. 
